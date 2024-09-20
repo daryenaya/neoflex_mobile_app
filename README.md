@@ -1,4 +1,4 @@
-A simple note taking app
+Приложение для заметок
 
 1. Главная страница приложения:
 ![image](https://github.com/user-attachments/assets/de9cc45c-45bc-4b6d-9857-76fd37c6e42f)
